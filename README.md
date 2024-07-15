@@ -1,4 +1,4 @@
-# Gesture Recognition
+# SmartGesture TV: AI-Powered Remote-Free Control System
 
 This project aims to develop a gesture recognition system using deep learning techniques to control a smart TV without a remote. The system recognizes five different gestures performed by the user, each corresponding to a specific command.
 
